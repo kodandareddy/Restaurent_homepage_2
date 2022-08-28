@@ -1,4 +1,4 @@
-# Street Style Landing  Page
+# Restaurant  Landing  Page
 
 > ## [Kodanda Rama Reddy Satti](https://portfolio-sable-eta-55.vercel.app/)
 
